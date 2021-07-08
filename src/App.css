@@ -1,0 +1,23 @@
+.parent{
+  display: flex;
+}
+.first{
+  width: 20%;
+  height: 100vh;
+  background-color: #0C2D48;
+}
+.app {
+  padding: 30px;
+  background-color:lightgreen;
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+#dropdown{
+  margin-left: 10px;
+}
+
